@@ -217,7 +217,7 @@ This project enables:
 **Nikhil Borade**
 AI/ML Engineer | Data Scientist
 
-🔗 GitHub: [https://github.com/nikhilborade0412](https://github.com/nikhilborade0412)
+🔗 [GitHub](https://github.com/nikhilborade0412)
 🔗 LinkedIn: [https://www.linkedin.com/in/nikhilborade0412/](https://www.linkedin.com/in/nikhilborade0412/)
 🔗 Portfolio: [https://nikhilborade0412.github.io/](https://nikhilborade0412.github.io/)
 
